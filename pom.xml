@@ -26,7 +26,7 @@
   </build>
 	<properties>
 		
-		<sonar.host.url>http://65.0.99.170:9000/</sonar.host.url>
+		<sonar.host.url>http://15.207.222.117:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		
@@ -64,13 +64,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>onlinebookstore</name>
-	      <url>http://35.154.74.247:8081/repository/onlinebookstore-release/</url>
+	      <url>http://15.207.117.119:8081/repository/onlinebookstore-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>onlinebookstore</name>
-	      <url>http://35.154.74.247:8081/repository/onlinebookstore-snapshot/</url>
+	      <url>http://15.207.117.119:8081/repository/onlinebookstore-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>/</url>
