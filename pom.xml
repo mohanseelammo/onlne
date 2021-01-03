@@ -24,6 +24,14 @@
       </plugin>
     </plugins>
   </build>
+	<properties>
+		
+		<sonar.host.url>http://65.0.99.170:9000/</sonar.host.url>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>admin</sonar.password>
+		
+
+	</properties>
   <dependencies>
   	
   	<dependency>
