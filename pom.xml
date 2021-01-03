@@ -54,4 +54,33 @@
   		<version>3.1.0</version>
   	</dependency>
   </dependencies>
+	<distributionManagement>
+	
+	    <repository>
+	      <id>nexus</id>
+	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <url><distributionManagement>
+	
+	    <repository>
+	      <id>nexus</id>
+	      <name>onlinebookstore</name>
+	      <url>http://35.154.74.247:8081/repository/onlinebookstore-release/</url>
+	    </repository>
+	    
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name>onlinebookstore</name>
+	      <url>http://35.154.74.247:8081/repository/onlinebookstore-snapshot/</url>
+	    </snapshotRepository>
+	    
+	</distributionManagement>/</url>
+	    </repository>
+	    
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <url>http://13.235.103.28:8081/repository/flipkart-snapshot/</url>
+	    </snapshotRepository>
+	    
+	</distributionManagement>
 </project>
