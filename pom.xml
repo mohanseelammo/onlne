@@ -69,7 +69,7 @@
 	      <url>http://15.207.117.119:8081/repository/onlinebookstore-snapshot/</url>
 	    </snapshotRepository>
 	    
-	</distributionManagement>/</url>
+	</distributionManagement>
 	    </repository>
 	    
 	    <snapshotRepository>
